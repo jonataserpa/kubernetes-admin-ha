@@ -12,7 +12,7 @@ Nessa estrutura teremos mais de um control plane para orquestrar o cluster Kuber
 
 ## Kubeadm - HA Stacked etcd Topology
 
-[!Topolgy]()
+[!Topolgy](./loadbalancer.png)
 
 ### Requisitos
 
