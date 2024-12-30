@@ -12,7 +12,7 @@ Nessa estrutura teremos mais de um control plane para orquestrar o cluster Kuber
 
 ## Kubeadm - HA Stacked etcd Topology
 
-[Topolgy]([./loadbalancer.png](https://raw.githubusercontent.com/jonataserpa/kubernetes-admin-ha/refs/heads/main/loadbalancer.png))
+![Topolgy](https://raw.githubusercontent.com/jonataserpa/kubernetes-admin-ha/refs/heads/main/loadbalancer.png)
 
 ### Requisitos
 
